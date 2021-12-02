@@ -1,4 +1,3 @@
 # finger_print_bleutooth_app
 
-A clone app for finger battle game - a multiplayer game, each player tries to win by tapping the screen, the first one to covers the opponent's play area wins
-
+by using arduino as a device for door lock this app comminuctes with the device, through bleutooth, and opens the door lock if the users finger print is recognized.
